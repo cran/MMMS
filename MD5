@@ -1,0 +1,17 @@
+6bfc13059c710d34f798ff645fba3147 *DESCRIPTION
+3ee6d8894f361a648e6aa575e2631976 *NAMESPACE
+3eda27c328784b6f7a43fcae66e8c054 *R/MMMS.R
+ece37174999aed6e4db8e5d163a8404f *R/extract.list.R
+7f4b7453052c1a270faa0d58f7aa9fe8 *R/get.p.boot.R
+bdb916df44ed13668bbe028eb97326e7 *R/get.score.R
+53fb15e8ef20ff79f78070cb80f2ec96 *R/get.score.main.R
+3a2ad9c87201ca5adef570b4ff0586ca *R/get.subgroup.R
+702aee2d4e5695deeb72d727e321bb47 *R/sample.tte.R
+5a98bf788bfa4dd1fa58534b83b7c073 *R/score2subgroup.all.R
+a3ea78549367e9f4480708cb838f8ade *data/simdat.rda
+b210f70b5decd134722fd68ac5c56f5c *man/MMMS-package.Rd
+0c2d1ec5cd6583a6ee0bde8cb0cc9308 *man/MMMS.Rd
+2d357f1a1778feaee4aa7cd0ccc8414f *man/get.score.Rd
+2229697034294ec5776eee227ba1881b *man/get.score.main.Rd
+a39f1b6e033185fc1d589c7a12173f0c *man/get.subgroup.Rd
+2bba71f84bb8cd1813dbf0409d2eeb5e *man/simdat.Rd
